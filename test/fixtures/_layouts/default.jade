@@ -1,0 +1,14 @@
+!!! 5
+html(lang="en")
+  head
+    title #{site.config.title}
+    link(href="/stylesheets/screen.css", media="screen", rel="stylesheet", type="text/css")
+    script(type="text/javascript", src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js")
+    script(type="text/javascript", src="/javascripts/gallery.js")
+  body
+    header#header
+      hgroup
+        h1
+          a(href="/") #{site.config.title}
+    section.content
+      !{content}

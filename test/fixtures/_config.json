@@ -1,0 +1,5 @@
+{  "url": ""
+ , "title": "Gallery"
+ , "require": ["pop-gallery"]
+ , "permalink": "/:year/:month/:day/:title"
+ , "perPage": 12 }

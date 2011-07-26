@@ -1,0 +1,12 @@
+{ "name": "pop-gallery"
+, "description": "Provides helpers and a generator that can be used to build galleries."
+, "version": "0.1.0"
+, "author": "Alex R. Young <alex@helicoid.net>"
+, "engines": ["node >= 0.4.7"]
+, "main": "./lib/index.js"
+, "repository": {
+    "type" : "git"
+  , "url" : "http://github.com/alexyoung/pop-gallery.git"
+  }
+}
+
