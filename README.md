@@ -6,7 +6,7 @@ Automatically generates a gallery site from a directory of images.
 
 ## Usage
 
-Install alongside [http://popjs.com](Pop):
+Install alongside [Pop](http://popjs.com):
 
     npm install -g pop
     npm install -g pop-gallery
